@@ -1,4 +1,4 @@
-<h1 align="center">DevLinks </h1>
+<h1 align="center">Painel </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projetos DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Projetos Painel" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como um cartao de visitas online.
+O painel é um agregador de links para usar como um cartao de visitas online.
 
 ## 🔖 Layout
 
@@ -44,4 +44,3 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
